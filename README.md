@@ -15,7 +15,7 @@ This repository contains a Python implementation of the scalable estimation meth
 
 ## Introduction
 
-The estimation method introduced in the paper provides a favorable scaling in the number of qubits compared to other state estimation schemes. It uses projective measurements on \(m n + 1\) separable bases or \(m\) entangled bases plus the computational basis, with \(m \geq 2\). This implementation uses Qiskit, a Python library for quantum computing, to simulate and experimentally demonstrate the method on IBM’s quantum processors.
+The estimation method introduced in the paper provides a favorable scaling in the number of qubits compared to other state estimation schemes. It uses projective measurements on $m n + 1$ separable bases or $m$ entangled bases plus the computational basis, with $m \geq 2$. This implementation uses Qiskit, a Python library for quantum computing, to simulate and experimentally demonstrate the method on IBM’s quantum processors.
 
 ## Installation
 
@@ -157,4 +157,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-For more detailed examples and usage, please refer to the documentation in the `docs` directory.
